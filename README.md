@@ -22,6 +22,6 @@ Feel free to contribute by adding new objective functions, enhancing existing im
 
 ## Contact
 
-If you have any questions, suggestions, or would like to collaborate, please reach out to me via [email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+If you have any questions, suggestions, or would like to collaborate, please reach out to me via [email](mailto:renato.luiz@engenharia.ufjf.br) or connect with me on [LinkedIn](https://www.linkedin.com/in/renato-faraco/).
 
 Let's embark on a journey of optimization, exploration, and learning together!
