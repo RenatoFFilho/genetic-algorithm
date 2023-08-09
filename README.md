@@ -1,6 +1,6 @@
-# Objective Functions and Genetic Algorithm Playground
+# Genetic Algorithm Playground
 
-Welcome to the "Objective Functions and Genetic Algorithm Playground" repository! This repository serves as a platform for studying, implementing, and experimenting with various objective functions commonly used in optimization problems, as well as exploring the application of Genetic Algorithms (GAs) in solving these challenges.
+Welcome to the "Genetic Algorithm Playground" repository! This repository serves as a platform for studying, implementing, and experimenting with various objective functions commonly used in optimization problems, as well as exploring the application of Genetic Algorithms (GAs) in solving these challenges.
 
 ## About
 
